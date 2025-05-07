@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shy9803/react2025/static/css/main.91036884.css",
+    "main.js": "/shy9803/react2025/static/js/main.431c316f.js",
+    "static/media/item2.jpg": "/shy9803/react2025/static/media/item2.b353b7f2a796eb17dad5.jpg",
+    "static/media/item1.jpg": "/shy9803/react2025/static/media/item1.766658bf5bf275766d53.jpg",
+    "index.html": "/shy9803/react2025/index.html",
+    "main.91036884.css.map": "/shy9803/react2025/static/css/main.91036884.css.map",
+    "main.431c316f.js.map": "/shy9803/react2025/static/js/main.431c316f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91036884.css",
+    "static/js/main.431c316f.js"
+  ]
+}
